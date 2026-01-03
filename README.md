@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Vladyslav Kravchenko**
 
-Frontend-focused Master's student in **Information Systems & Technologies** with a strong practical background in IT support, system troubleshooting, and digital marketing. I don’t romanticize development — I like things that **work**, scale, and don’t break in production.
+Frontend-focused Master's in **Information Systems & Technologies** with a strong practical background in IT support, system troubleshooting, and digital marketing. I don’t romanticize development — I like things that **work**, scale, and don’t break in production.
 
 ---
 
